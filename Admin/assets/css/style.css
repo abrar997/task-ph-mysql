@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(248, 246, 246);
+}
+
+.fa-times {
+  color: red !important;
+}
+.Admin-index .card {
+  margin-bottom: 200px !important;
+}
+.Admin-index .fa-pen-to-square {
+  color: green !important;
+}
+
+.session-email {
+  background-color: red;
+  padding: 10px;
+}
+
+footer {
+  position: absolute !important;
+  bottom: -200px;
+  right: 0;
+  left: 0;
+}
